@@ -1,6 +1,6 @@
 ## Traitement d'images
 
-L'ensemble des documents proviennent des TP de traitement d'images présenté depuis 2017 aux étudiants de la spécialité "Électronique" de l'[ENSICAEN](http://www.ensicaen.fr).
+L'ensemble des documents proviennent du cours et des TP de traitement d'images proposé aux étudiants de la spécialité "Électronique" de l'[ENSICAEN](http://www.ensicaen.fr).
 
 ### Licences
 
@@ -12,7 +12,7 @@ L'ensemble des documents proviennent des TP de traitement d'images présenté de
 
 ## Image Processing
 
-All the documents come from my course presented since 2017 at the [ENSICAEN](http://www.ensicaen.fr).
+All the documents come from my course presented at the [ENSICAEN](http://www.ensicaen.fr).
 
 ### Licensing
 
