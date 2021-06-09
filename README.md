@@ -1,6 +1,6 @@
 ## Traitement d'images
 
-L'ensemble des documents proviennent du cours et des TP de traitement d'images proposé aux étudiants de la spécialité "Électronique" de l'[ENSICAEN](http://www.ensicaen.fr).
+L'ensemble des documents proviennent du cours de traitement d'images proposé aux étudiants de 3e année de la spécialité "Électronique" de l'[ENSICAEN](http://www.ensicaen.fr).
 
 ### Licences
 
