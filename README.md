@@ -1,6 +1,6 @@
 ## Traitement d'images
 
-L'ensemble des documents proviennent du cours de traitement d'images proposé aux étudiants de 3e année de la spécialité "Électronique" de l'[ENSICAEN](http://www.ensicaen.fr).
+L'ensemble des documents proviennent du cours de traitement d'images proposé aux étudiants de 3e année de la spécialité "Physique appliquée" de l'[ENSICAEN](http://www.ensicaen.fr).
 
 ### Licences
 
@@ -12,7 +12,7 @@ L'ensemble des documents proviennent du cours de traitement d'images proposé au
 
 ## Image Processing
 
-All the documents come from my course presented at the [ENSICAEN](http://www.ensicaen.fr).
+The set of documents comes from the image processing course offered to third-year students of the "Applied physics" specialty at [ENSICAEN](http://www.ensicaen.fr).
 
 ### Licensing
 
