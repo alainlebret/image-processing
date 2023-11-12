@@ -12,7 +12,7 @@ L'ensemble des documents proviennent du cours de traitement d'images proposé au
 
 ## Image Processing
 
-The set of documents comes from the image processing course offered to third-year students of the "Applied physics" specialty at [ENSICAEN](http://www.ensicaen.fr).
+The set of documents comes from the image processing course offered to third-year students of the "Applied Physics" specialty at [ENSICAEN](http://www.ensicaen.fr).
 
 ### Licensing
 
